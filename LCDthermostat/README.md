@@ -6,4 +6,6 @@ Arduino Micro
 
 DS18B20 temperature probe
 
+rotary encoder
+
 relay
